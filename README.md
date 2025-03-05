@@ -14,8 +14,11 @@ Este é um jogo simples onde o jogador tenta adivinhar um filme com base em 3 di
 
 ## 🚀 Como Executar no Pydroid 3  
 1. **Baixe o Pydroid 3** na Play Store.  
-2. **Instale o Tkinter** digitando no terminal do Pydroid 3:  
+2. **Instale o Tkinter** digitando no terminal do Pydroid 3:
+   3:  
    ```sh
    pip install tkinter
+
+3. Abra o arquivo jogo_adivinhacao.py no Pydroid 3 e execute.
 
 Criado por Elly0x.
